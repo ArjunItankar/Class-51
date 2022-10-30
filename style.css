@@ -1,0 +1,40 @@
+body{
+    background-color:bisque;
+}
+
+h1{
+
+color: red;
+background-color:azure;
+}
+
+h2{
+
+color:blueviolet;
+background-color:chartreuse;
+}
+
+p{
+
+    color:cornflowerblue;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+
+.site-description{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.grid{
+    display: flex;
+
+    justify-content:center;
+}
+
+.footer{
+    display:flex;
+    justify-content:center;
+}
